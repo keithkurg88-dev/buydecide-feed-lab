@@ -1,0 +1,22 @@
+# Feed Lab — goes into the PUBLIC feeds repo at .github/workflows/rejitter.yml
+# Regenerates feed-c.json daily (a real content change per day); feeds A/B
+# stay static so their polls answer genuine 304s.
+name: Re-jitter Feed C
+on:
+  schedule:
+    - cron: "20 3 * * *"     # daily 03:20 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  rejitter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python rejitter_feed_c.py feeds/feed-c.json
+      - run: |
+          git config user.name "feed-lab-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feeds/feed-c.json
+          git diff --cached --quiet || git commit -m "daily re-jitter"
+          git push
