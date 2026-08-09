@@ -5,9 +5,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "4262595980761",
-   "price": "241.78",
+   "price": "285.50",
    "sku": "LAB-4537",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Lenovo ThinkPad E15 15.6″, 256 GB, Matte, Black"
   },
   {
@@ -15,9 +15,9 @@
    "brand": "PEAQ",
    "currency": "EUR",
    "gtin": "4049011197039",
-   "price": "126.91",
+   "price": "151.15",
    "sku": "LAB-4538",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "PEAQ PTV 32H-5024C HD-Ready TV 32″"
   },
   {
@@ -25,9 +25,9 @@
    "brand": "PEAQ",
    "currency": "EUR",
    "gtin": "4049011222830",
-   "price": "162.41",
+   "price": "171.35",
    "sku": "LAB-4539",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "PEAQ PTV 32GH-5026C HD-Ready Google TV 32″"
   },
   {
@@ -35,9 +35,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090417979",
-   "price": "421.67",
+   "price": "417.87",
    "sku": "LAB-4540",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Samsung GU 50 TU 8079 UXZG 50″, Schieferschwarz, stand"
   },
   {
@@ -45,7 +45,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806092076754",
-   "price": "426.03",
+   "price": "473.37",
    "sku": "LAB-4541",
    "stock": "in stock",
    "title": "SAMSUNG GU 65 AU 7199 UXZG LED TV (Flat, 65 Zoll / 163 cm, UHD 4K, SMART TV, Tizen)"
@@ -55,9 +55,9 @@
    "brand": "STRONG",
    "currency": "EUR",
    "gtin": "9120072375002",
-   "price": "125.24",
+   "price": "119.67",
    "sku": "LAB-4542",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "STRONG SRT24HE4023 HD TV 24″"
   },
   {
@@ -65,9 +65,9 @@
    "brand": "Panasonic",
    "currency": "EUR",
    "gtin": "5025232969036",
-   "price": "1537.52",
+   "price": "1361.34",
    "sku": "LAB-4543",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "PANASONIC TV-65Z80AEZ TV (Flat, 65 Zoll / 164 cm, OLED 4K, SMART TV)"
   },
   {
@@ -75,9 +75,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736150980",
-   "price": "1650.14",
+   "price": "1398.69",
    "sku": "LAB-4544",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "SONY KD 65 X 85 LAEP LED TV (Flat, 65 Zoll / 165 cm, UHD 4K, SMART TV, Google TV)"
   },
   {
@@ -85,7 +85,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095414997",
-   "price": "4436.49",
+   "price": "3753.96",
    "sku": "LAB-4545",
    "stock": "in stock",
    "title": "SAMSUNG OLED GQ 77 S 95 DATXZG OLED TV (Flat, 77 Zoll / 195 cm, OLED 4K, SMART TV)"
@@ -97,7 +97,7 @@
    "gtin": "8806096686027",
    "price": "2209.12",
    "sku": "LAB-4546",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG ELECTRONICS OLED65C69LB (2026) 65 Zoll OLED evo AI C6 4K Smart TV"
   },
   {
@@ -105,7 +105,7 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195950643985",
-   "price": "819.56",
+   "price": "828.57",
    "sku": "LAB-4547",
    "stock": "in stock",
    "title": "Apple iPhone 17, 256 GB, Nebelblau, Dual SIM"
@@ -115,7 +115,7 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195950643787",
-   "price": "979.29",
+   "price": "873.42",
    "sku": "LAB-4548",
    "stock": "in stock",
    "title": "Apple iPhone 17, 256 GB, White, Dual SIM"
@@ -125,9 +125,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195950640298",
-   "price": "1869.38",
+   "price": "1828.74",
    "sku": "LAB-4550",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Apple iPhone 17 Pro Max, 1 TB, Cosmic Orange, Dual SIM"
   },
   {
@@ -135,9 +135,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195950627848",
-   "price": "1424.95",
+   "price": "1689.37",
    "sku": "LAB-4551",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Apple iPhone 17 Pro, 512 GB, Silver, Dual SIM"
   },
   {
@@ -145,9 +145,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195950639896",
-   "price": "1983.03",
+   "price": "1857.97",
    "sku": "LAB-4552",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Apple iPhone 17 Pro Max, 512 GB, Deep Blue, Dual SIM"
   },
   {
@@ -155,7 +155,7 @@
    "brand": "Xiaomi",
    "currency": "EUR",
    "gtin": "6932554455484",
-   "price": "131.70",
+   "price": "124.65",
    "sku": "LAB-4554",
    "stock": "in stock",
    "title": "Xiaomi Redmi 15C, 128 GB, Mint Green, Dual SIM"
@@ -165,9 +165,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195949040917",
-   "price": "634.32",
+   "price": "570.25",
    "sku": "LAB-4555",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Apple IPHONE 15 PLUS Pink Dual SIM, 128 GB, Pink"
   },
   {
@@ -175,9 +175,9 @@
    "brand": "ProCaster",
    "currency": "EUR",
    "gtin": "6438148044398",
-   "price": "174.56",
+   "price": "207.04",
    "sku": "LAB-4556",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "ProCaster LE-24A551H HD Ready LED TV 24″, 12 V"
   },
   {
@@ -185,9 +185,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094908572",
-   "price": "293.24",
+   "price": "316.24",
    "sku": "LAB-4557",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung UE32T5372CD Full HD Smart LED TV 32″"
   },
   {
@@ -195,9 +195,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736159624",
-   "price": "3480.95",
+   "price": "4154.69",
    "sku": "LAB-4558",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Sony Bravia 9 75″, Gray"
   },
   {
@@ -205,7 +205,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0198153165865",
-   "price": "875.49",
+   "price": "866.99",
    "sku": "LAB-4559",
    "stock": "in stock",
    "title": "Lenovo V17 Gen 4 17.3″, Windows 11 Pro (83A2003FMX)"
@@ -215,7 +215,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0198415234391",
-   "price": "8511.89",
+   "price": "7382.76",
    "sku": "LAB-4560",
    "stock": "in stock",
    "title": "HP ZBook Fury 16 G11 16″, Windows 11 Pro 64-bit (98K03ET)"
@@ -225,9 +225,9 @@
    "brand": "FPD",
    "currency": "EUR",
    "gtin": "6921958600422",
-   "price": "216.25",
+   "price": "265.96",
    "sku": "LAB-4561",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "FPD G500 32″ (2025), Black, stand"
   },
   {
@@ -235,7 +235,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095544137",
-   "price": "2523.66",
+   "price": "3117.46",
    "sku": "LAB-4562",
    "stock": "preorder",
    "title": "Samsung DU9072 98″ (2024), Black"
@@ -245,9 +245,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095823003",
-   "price": "136.41",
+   "price": "148.81",
    "sku": "LAB-4563",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung Galaxy A16 LTE, 128 GB, Light Green"
   },
   {
@@ -255,9 +255,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097067603",
-   "price": "2104.21",
+   "price": "1568.93",
    "sku": "LAB-4564",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Samsung U80 55″ (2025), Black"
   },
   {
@@ -265,7 +265,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097067627",
-   "price": "3676.64",
+   "price": "3969.10",
    "sku": "LAB-4565",
    "stock": "in stock",
    "title": "Samsung U80 65″ (2025), Black, stand"
@@ -275,7 +275,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096363683",
-   "price": "2030.72",
+   "price": "2102.39",
    "sku": "LAB-4567",
    "stock": "in stock",
    "title": "LG OLED evo G5 55″ 4K, stand"
@@ -287,7 +287,7 @@
    "gtin": "8806096172704",
    "price": "1120.60",
    "sku": "LAB-4568",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG OLED B4E 4K TV 55″"
   },
   {
@@ -295,9 +295,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096317914",
-   "price": "1020.83",
+   "price": "1056.44",
    "sku": "LAB-4569",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG QNED87A 55″, Black"
   },
   {
@@ -305,9 +305,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096362006",
-   "price": "2140.13",
+   "price": "1978.61",
    "sku": "LAB-4570",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG QNED86A 75″, Glossy, Black"
   },
   {
@@ -315,7 +315,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251712005",
-   "price": "3334.81",
+   "price": "3800.97",
    "sku": "LAB-4571",
    "stock": "in stock",
    "title": "HP ZBook 8 G1i 14″, 2 TB, Meteor silver"
@@ -325,7 +325,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251712258",
-   "price": "2638.16",
+   "price": "2822.83",
    "sku": "LAB-4572",
    "stock": "in stock",
    "title": "HP ZBook 8 G1a 14″, 512 GB, Meteor silver"
@@ -335,7 +335,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292520144",
-   "price": "176.33",
+   "price": "138.21",
    "sku": "LAB-4573",
    "stock": "in stock",
    "title": "TCL S5409 32″, Gray"
@@ -345,9 +345,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251660788",
-   "price": "1043.45",
+   "price": "1138.31",
    "sku": "LAB-4574",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "HP VICTUS 15-fb2001no 15.6″, 512 GB, Wi-Fi, Mica silver"
   },
   {
@@ -355,9 +355,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0198158351157",
-   "price": "1232.33",
+   "price": "918.84",
    "sku": "LAB-4575",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad E16 Gen 3 tietokone 16″, Windows 11 Pro (21SR0045MX)"
   },
   {
@@ -365,7 +365,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387971314",
-   "price": "2709.39",
+   "price": "2452.71",
    "sku": "LAB-4576",
    "stock": "in stock",
    "title": "Asus ROG Strix G16 pelikannettava 16″, Windows 11 (G614FR-S5113W)"
@@ -375,9 +375,9 @@
    "brand": "ProCaster",
    "currency": "EUR",
    "gtin": "6438148064105",
-   "price": "664.97",
+   "price": "764.00",
    "sku": "LAB-4577",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "ProCaster SL970H 65″ (2026), Black, stand"
   },
   {
@@ -385,7 +385,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636017916",
-   "price": "2893.31",
+   "price": "2487.23",
    "sku": "LAB-4578",
    "stock": "in stock",
    "title": "Asus ProArt P16 16″, 1 TB, Wi-Fi, Black, OLED, RTX 5060"
@@ -395,9 +395,9 @@
    "brand": "FPD",
    "currency": "EUR",
    "gtin": "6921958600958",
-   "price": "737.07",
+   "price": "621.70",
    "sku": "LAB-4579",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "FPD ML970 65″ (2025), Black, 4K, Mini-LED, Google TV"
   },
   {
@@ -405,7 +405,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271933466",
-   "price": "4803.96",
+   "price": "5219.68",
    "sku": "LAB-4580",
    "stock": "in stock",
    "title": "Lenovo Thinkpad P16v Gen 3 tietokone, Windows 11 Pro (21RS000WMX)"
@@ -415,9 +415,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271935644",
-   "price": "4984.10",
+   "price": "5263.59",
    "sku": "LAB-4581",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Lenovo Thinkpad P16v Gen 3 tietokone, Windows 11 Pro (21RS000SMX)"
   },
   {
@@ -425,9 +425,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271681541",
-   "price": "7544.34",
+   "price": "8350.04",
    "sku": "LAB-4582",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Lenovo ThinkPad P16 Gen 3 tietokone, Windows 11 Pro (21RQ000JMX)"
   },
   {
@@ -435,7 +435,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271686140",
-   "price": "6928.78",
+   "price": "7226.79",
    "sku": "LAB-4583",
    "stock": "preorder",
    "title": "Lenovo ThinkPad P16 Gen 3 tietokone, Windows 11 Pro (21RQ0007MX)"
@@ -445,7 +445,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292528744",
-   "price": "1100.50",
+   "price": "949.45",
    "sku": "LAB-4584",
    "stock": "in stock",
    "title": "TCL C6K 50″, Black, 4K, QD Mini-LED, Google TV"
@@ -455,9 +455,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199485083421",
-   "price": "6879.04",
+   "price": "7126.93",
    "sku": "LAB-4585",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP ZBook Fury G1i 18 tietokone, Windows 11 Pro (98L68ET)"
   },
   {
@@ -465,7 +465,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097253020",
-   "price": "449.13",
+   "price": "425.49",
    "sku": "LAB-4586",
    "stock": "preorder",
    "title": "Samsung U7022F 65″ (2025), Titanium grey"
@@ -475,9 +475,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096381885",
-   "price": "683.81",
+   "price": "736.41",
    "sku": "LAB-4587",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG OLED evo C5 55″ 4K (C51)"
   },
   {
@@ -485,9 +485,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292525903",
-   "price": "1849.73",
+   "price": "2116.70",
    "sku": "LAB-4588",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "TCL P7K 85″ 4K QLED"
   },
   {
@@ -495,9 +495,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097253211",
-   "price": "493.71",
+   "price": "508.23",
    "sku": "LAB-4589",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Samsung U7022F 43″ (2025), Titanium grey"
   },
   {
@@ -505,9 +505,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096353172",
-   "price": "672.88",
+   "price": "609.80",
    "sku": "LAB-4591",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG UA75 55″ (2025), Black"
   },
   {
@@ -515,9 +515,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199273948192",
-   "price": "1995.41",
+   "price": "2015.98",
    "sku": "LAB-4592",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad T14 Gen 6 14″, 512 GB, Wi-Fi, Black"
   },
   {
@@ -525,7 +525,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097870661",
-   "price": "3227.96",
+   "price": "2570.41",
    "sku": "LAB-4593",
    "stock": "preorder",
    "title": "Samsung S91F 83″ 4K OLED (TQ)"
@@ -535,9 +535,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095973517",
-   "price": "2301.65",
+   "price": "2050.97",
    "sku": "LAB-4594",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Samsung QN70F 75″ (2025), Black, 4K, Mini-LED"
   },
   {
@@ -545,7 +545,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184989500",
-   "price": "1121.04",
+   "price": "1210.72",
    "sku": "LAB-4595",
    "stock": "in stock",
    "title": "Dell Pro 15 Essential 15.6″ (YFTTM), 512 GB, Wi-Fi, Black"
@@ -555,9 +555,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184986837",
-   "price": "1937.55",
+   "price": "1594.62",
    "sku": "LAB-4596",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Dell Pro 14 tietokone, Windows 11 Pro (16DVH)"
   },
   {
@@ -565,7 +565,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184985953",
-   "price": "3918.22",
+   "price": "3989.46",
    "sku": "LAB-4597",
    "stock": "out of stock",
    "title": "Dell Pro Max 14 tietokone, Windows 11 Pro (52M08)"
@@ -575,9 +575,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292526931",
-   "price": "793.89",
+   "price": "811.14",
    "sku": "LAB-4598",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "TCL P81K 75″ 4K QLED"
   },
   {
@@ -585,9 +585,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529918",
-   "price": "4998.39",
+   "price": "4948.90",
    "sku": "LAB-4599",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "TCL C7L 98″, Black"
   },
   {
@@ -595,9 +595,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529949",
-   "price": "1855.47",
+   "price": "1764.52",
    "sku": "LAB-4600",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "TCL C7L 65″, Black"
   },
   {
@@ -605,7 +605,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095994574",
-   "price": "1605.74",
+   "price": "1677.10",
    "sku": "LAB-4602",
    "stock": "in stock",
    "title": "Samsung S85F 83″ 4K OLED"
@@ -615,9 +615,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292530068",
-   "price": "554.43",
+   "price": "533.11",
    "sku": "LAB-4603",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "TCL A400 Pro 32″, Light walnut woodgrain"
   },
   {
@@ -625,9 +625,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096686140",
-   "price": "2804.71",
+   "price": "3110.17",
    "sku": "LAB-4604",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG OLED evo C6 77″ 4K (C64)"
   },
   {
@@ -635,7 +635,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096720134",
-   "price": "1068.13",
+   "price": "1014.18",
    "sku": "LAB-4605",
    "stock": "out of stock",
    "title": "LG NU80 85″ (2026), Black"
@@ -645,9 +645,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096720196",
-   "price": "761.91",
+   "price": "636.09",
    "sku": "LAB-4606",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG NU80 65″ (2026), Black"
   },
   {
@@ -655,9 +655,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096707142",
-   "price": "1709.05",
+   "price": "1794.50",
    "sku": "LAB-4608",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "LG OLED evo G6 48″ 4K, stand"
   },
   {
@@ -665,9 +665,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096685921",
-   "price": "3036.17",
+   "price": "2418.19",
    "sku": "LAB-4609",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG OLED evo G6 55″ 4K, stand"
   },
   {
@@ -675,9 +675,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863052136",
-   "price": "3560.58",
+   "price": "3671.85",
    "sku": "LAB-4611",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Philips OLED911 65″ 4K OLED Ambilight"
   },
   {
@@ -685,9 +685,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863052198",
-   "price": "5760.84",
+   "price": "5120.75",
    "sku": "LAB-4612",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Philips OLED951 77″ 4K OLED Ambilight"
   },
   {
@@ -695,7 +695,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0821844971673",
-   "price": "2827.03",
+   "price": "2574.61",
    "sku": "LAB-4613",
    "stock": "in stock",
    "title": "HP EliteBook 8 G2i tietokone 13″, Windows 11 Pro (DE7B8AT#UUW)"
@@ -705,9 +705,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0826581096047",
-   "price": "3170.18",
+   "price": "2591.01",
    "sku": "LAB-4614",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "HP ZBook X G2i tietokone 16″, Windows 11 Pro (DH1L2ET#UUW)"
   },
   {
@@ -715,7 +715,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736177727",
-   "price": "1428.26",
+   "price": "1064.93",
    "sku": "LAB-4615",
    "stock": "in stock",
    "title": "Sony Bravia 3 II 50″ (XR32), Black"
@@ -725,7 +725,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199276518255",
-   "price": "3126.74",
+   "price": "3324.21",
    "sku": "LAB-4616",
    "stock": "out of stock",
    "title": "Lenovo ThinkPad T14s 2-in-1 Gen 2 tietokone 14″, Windows 11 Pro (21YY003GMX)"
@@ -735,7 +735,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184967843",
-   "price": "1221.91",
+   "price": "1337.67",
    "sku": "LAB-4617",
    "stock": "in stock",
    "title": "Dell Pro 15 Essential tietokone 15.6″, Windows 11 Pro (6MHYK)"
@@ -745,9 +745,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0821844130322",
-   "price": "1716.50",
+   "price": "1563.24",
    "sku": "LAB-4618",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP HyperX OMEN 15-ga0008no pelikannettava 15.3″, Windows 11 Home (D6QS1EA)"
   },
   {
@@ -755,9 +755,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292527198",
-   "price": "1057.34",
+   "price": "960.24",
    "sku": "LAB-4619",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "TCL C79K 65″, Black"
   },
   {
@@ -765,7 +765,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199276061287",
-   "price": "1871.59",
+   "price": "1890.49",
    "sku": "LAB-4620",
    "stock": "preorder",
    "title": "Lenovo ThinkPad L16 Gen 3 tietokone 16″, Windows 11 Pro (21XC001TMX)"
@@ -775,7 +775,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097077985",
-   "price": "1936.98",
+   "price": "1878.87",
    "sku": "LAB-4621",
    "stock": "in stock",
    "title": "Samsung S95F 65″ 4K QD-OLED (TQ)"
@@ -785,7 +785,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636535465",
-   "price": "658.41",
+   "price": "773.25",
    "sku": "LAB-4622",
    "stock": "in stock",
    "title": "Asus Vivobook S14 D3407KA-OPEN2 14\" kannettava, ilman käyttöjärjestelmää, harmaa"
@@ -795,9 +795,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292527778",
-   "price": "1697.30",
+   "price": "1810.45",
    "sku": "LAB-4623",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "TCL C89K 75″, Black"
   },
   {
@@ -805,7 +805,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096353806",
-   "price": "1291.73",
+   "price": "1365.12",
    "sku": "LAB-4624",
    "stock": "in stock",
    "title": "LG OLED B5 48″ 4K (API)"
@@ -815,9 +815,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096363621",
-   "price": "3412.83",
+   "price": "3381.52",
    "sku": "LAB-4625",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "LG OLED evo C5 77″ 4K (C55)"
   },
   {
@@ -825,9 +825,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096520970",
-   "price": "437.51",
+   "price": "553.17",
    "sku": "LAB-4627",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG LR6000 - Full HD LED TV 43″ (API)"
   },
   {
@@ -835,9 +835,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096340301",
-   "price": "552.56",
+   "price": "713.19",
    "sku": "LAB-4628",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG UA73 55″, Black"
   },
   {
@@ -845,9 +845,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095815718",
-   "price": "1308.59",
+   "price": "1398.39",
    "sku": "LAB-4629",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Samsung Galaxy S25 Ultra 5G, 512 GB, Titanium Black"
   },
   {
@@ -855,9 +855,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095858630",
-   "price": "873.78",
+   "price": "1014.71",
    "sku": "LAB-4630",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung Galaxy S25+ 5G, 256 GB, Mint"
   },
   {
@@ -865,9 +865,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195949894084",
-   "price": "2172.84",
+   "price": "2467.08",
    "sku": "LAB-4631",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Apple MacBook Air 15.3″ (M4, 2025) (MC7D4), 512 GB, Sky Blue"
   },
   {
@@ -875,9 +875,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096353790",
-   "price": "771.47",
+   "price": "636.65",
    "sku": "LAB-4632",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG OLED B5 48″ 4K"
   },
   {
@@ -885,7 +885,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097068617",
-   "price": "517.44",
+   "price": "569.76",
    "sku": "LAB-4634",
    "stock": "in stock",
    "title": "Samsung U8000F 75″, 4K UHD, Black, LED LCD"
@@ -895,7 +895,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351418995",
-   "price": "671.90",
+   "price": "624.39",
    "sku": "LAB-4635",
    "stock": "in stock",
    "title": "Hisense E7Q 75″, 4K UHD, Black, QLED"
@@ -905,7 +905,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096362266",
-   "price": "554.39",
+   "price": "482.32",
    "sku": "LAB-4636",
    "stock": "preorder",
    "title": "LG NANO81 AI 75″, Black, LED LCD, NanoCell"
@@ -915,7 +915,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097118602",
-   "price": "563.54",
+   "price": "609.95",
    "sku": "LAB-4637",
    "stock": "in stock",
    "title": "Samsung Q7F 75″, 4K UHD, Black, QLED"
@@ -925,9 +925,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351416885",
-   "price": "689.51",
+   "price": "703.03",
    "sku": "LAB-4638",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Hisense E7Q PRO 75″, 4K UHD, Black, QLED"
   },
   {
@@ -935,7 +935,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046197",
-   "price": "831.09",
+   "price": "802.19",
    "sku": "LAB-4639",
    "stock": "in stock",
    "title": "Philips PUS8510 75″, 4K UHD, Black, QLED"
@@ -945,9 +945,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096403457",
-   "price": "748.12",
+   "price": "905.61",
    "sku": "LAB-4640",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG QNED82 AI 75″, 4K UHD, Black, QNED"
   },
   {
@@ -955,9 +955,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096703205",
-   "price": "620.99",
+   "price": "655.49",
    "sku": "LAB-4641",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG NANO85 AI 75″, 4K UHD, Black, LED LCD"
   },
   {
@@ -965,9 +965,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097977520",
-   "price": "684.75",
+   "price": "926.43",
    "sku": "LAB-4642",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Samsung U8092 75″, 4K UHD, Black, LED LCD"
   },
   {
@@ -975,7 +975,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097968986",
-   "price": "863.99",
+   "price": "959.03",
    "sku": "LAB-4643",
    "stock": "in stock",
    "title": "Samsung M70H 75″, 4K UHD, Black, Mini LED"
@@ -985,7 +985,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096729564",
-   "price": "791.86",
+   "price": "627.78",
    "sku": "LAB-4644",
    "stock": "in stock",
    "title": "LG QNED72 AI 75″, 4K UHD, Black, QNED Mini LED"
@@ -995,7 +995,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351431901",
-   "price": "978.98",
+   "price": "925.09",
    "sku": "LAB-4645",
    "stock": "in stock",
    "title": "Hisense E7S 75″, 4K UHD, Black, HI-QLED"
@@ -1005,7 +1005,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099014247",
-   "price": "817.51",
+   "price": "950.59",
    "sku": "LAB-4646",
    "stock": "in stock",
    "title": "Samsung M80H 75″, 4K UHD, Black, Mini LED"
@@ -1015,9 +1015,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095916842",
-   "price": "1208.39",
+   "price": "1151.39",
    "sku": "LAB-4647",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Samsung QN70F 75″, 4K UHD, Black, Neo QLED, Mini LED"
   },
   {
@@ -1025,7 +1025,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531331",
-   "price": "947.40",
+   "price": "1059.46",
    "sku": "LAB-4648",
    "stock": "in stock",
    "title": "TCL P79L 75″, 4K UHD, Black, QLED"
@@ -1035,9 +1035,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096360699",
-   "price": "815.75",
+   "price": "906.39",
    "sku": "LAB-4649",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG QNED86 evo AI 75″, 4K UHD, Black, QNED, Mini LED"
   },
   {
@@ -1045,7 +1045,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351417462",
-   "price": "1092.62",
+   "price": "1039.06",
    "sku": "LAB-4650",
    "stock": "in stock",
    "title": "Hisense U7Q PRO 75″, 4K UHD, Black, ULED, Mini LED"
@@ -1055,7 +1055,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096787670",
-   "price": "943.84",
+   "price": "965.30",
    "sku": "LAB-4651",
    "stock": "out of stock",
    "title": "LG evo AI QNED83 75″, 4K UHD, Black, QNED Mini LED"
@@ -1065,9 +1065,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351433967",
-   "price": "958.01",
+   "price": "1061.02",
    "sku": "LAB-4652",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense E8S 75″, 4K UHD, Black, ULED Mini LED"
   },
   {
@@ -1075,7 +1075,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099024161",
-   "price": "888.75",
+   "price": "1005.95",
    "sku": "LAB-4653",
    "stock": "preorder",
    "title": "Samsung QN70H 75″, 4K UHD, Black, Neo QLED"
@@ -1085,9 +1085,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736180260",
-   "price": "1266.21",
+   "price": "1304.20",
    "sku": "LAB-4654",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Sony Bravia 2 II S25M 75″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1095,9 +1095,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351437903",
-   "price": "1054.20",
+   "price": "1018.26",
    "sku": "LAB-4655",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Hisense U7SE 75″, 4K UHD, Black, ULED Mini LED"
   },
   {
@@ -1105,9 +1105,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531881",
-   "price": "1315.71",
+   "price": "1100.41",
    "sku": "LAB-4656",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "TCL A400U 75″, 4K UHD, Black, QD-Mini LED"
   },
   {
@@ -1115,9 +1115,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736177901",
-   "price": "1268.05",
+   "price": "1243.43",
    "sku": "LAB-4657",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Sony BRAVIA 3 II XR35 75″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1125,9 +1125,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351437446",
-   "price": "1499.07",
+   "price": "1647.50",
    "sku": "LAB-4658",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Hisense U7S Pro 75″, 4K UHD, Black, ULED"
   },
   {
@@ -1135,7 +1135,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531140",
-   "price": "2179.84",
+   "price": "2259.83",
    "sku": "LAB-4659",
    "stock": "in stock",
    "title": "TCL C79L 75″, 4K UHD, Black, SQD-Mini LED"
@@ -1145,7 +1145,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529987",
-   "price": "1601.10",
+   "price": "1687.18",
    "sku": "LAB-4660",
    "stock": "in stock",
    "title": "TCL RM7L 75″, 4K UHD, Black, RGB-Mini LED"
@@ -1157,7 +1157,7 @@
    "gtin": "8806096695586",
    "price": "1803.00",
    "sku": "LAB-4661",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG QNED87 evo AI 75″, 4K UHD, Black, QNED Mini LED"
   },
   {
@@ -1165,7 +1165,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097943082",
-   "price": "1397.45",
+   "price": "1486.65",
    "sku": "LAB-4662",
    "stock": "in stock",
    "title": "Samsung QN80H 75″, 4K UHD, Black, Neo QLED"
@@ -1175,9 +1175,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096732229",
-   "price": "2101.02",
+   "price": "2024.62",
    "sku": "LAB-4663",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG Mini RGB evo AI MRGB88 75″, 4K UHD, Dark Gray, Mini RGB"
   },
   {
@@ -1185,9 +1185,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529895",
-   "price": "2180.14",
+   "price": "2294.88",
    "sku": "LAB-4664",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "TCL C8L 75″, 4K UHD, Black, SQD-Mini LED"
   },
   {
@@ -1195,7 +1195,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351436760",
-   "price": "2467.51",
+   "price": "2444.44",
    "sku": "LAB-4665",
    "stock": "out of stock",
    "title": "Hisense UR8S 75″, 4K UHD, Black, RGB Mini LED"
@@ -1205,7 +1205,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096364406",
-   "price": "1815.22",
+   "price": "2085.57",
    "sku": "LAB-4666",
    "stock": "preorder",
    "title": "LG OLED evo AI C5 77″, 4K UHD, OLED must"
@@ -1215,9 +1215,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099105402",
-   "price": "2020.06",
+   "price": "1797.85",
    "sku": "LAB-4667",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung R85H 75″, 4K UHD, Black, Micro RGB"
   },
   {
@@ -1225,9 +1225,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046784",
-   "price": "2119.39",
+   "price": "2002.94",
    "sku": "LAB-4668",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips OLED820 77″, 4K UHD, Dark Gray, OLED"
   },
   {
@@ -1235,9 +1235,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097963653",
-   "price": "2364.93",
+   "price": "2415.79",
    "sku": "LAB-4669",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung S85H 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1245,9 +1245,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099009366",
-   "price": "2250.88",
+   "price": "2473.49",
    "sku": "LAB-4670",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Samsung The Frame Pro 75″, 4K UHD, Black, Neo QLED Mini LED"
   },
   {
@@ -1255,7 +1255,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351436302",
-   "price": "2646.84",
+   "price": "2588.67",
    "sku": "LAB-4671",
    "stock": "in stock",
    "title": "Hisense UR9S 75″, 4K UHD, Black, RGB Mini LED"
@@ -1265,9 +1265,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096408933",
-   "price": "3201.19",
+   "price": "2946.23",
    "sku": "LAB-4672",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG OLED evo AI G5 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1275,7 +1275,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097953081",
-   "price": "2604.23",
+   "price": "2143.31",
    "sku": "LAB-4673",
    "stock": "in stock",
    "title": "Samsung S90H 77″, 4K UHD, Black, OLED"
@@ -1285,9 +1285,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736178298",
-   "price": "2958.94",
+   "price": "2617.52",
    "sku": "LAB-4674",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Sony BRAVIA 7 II XR75 75″, 4K UHD, Black, RGB LED"
   },
   {
@@ -1295,7 +1295,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096686133",
-   "price": "3112.05",
+   "price": "3225.22",
    "sku": "LAB-4675",
    "stock": "in stock",
    "title": "LG OLED evo AI C6 77″, 4K UHD, Dark Gray, OLED"
@@ -1305,7 +1305,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736159730",
-   "price": "2915.12",
+   "price": "2558.16",
    "sku": "LAB-4676",
    "stock": "in stock",
    "title": "Sony Bravia 8 77″, 4K UHD, Dark Gray, OLED"
@@ -1317,7 +1317,7 @@
    "gtin": "8718863048344",
    "price": "3032.11",
    "sku": "LAB-4677",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Philips OLED950 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1325,9 +1325,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096686218",
-   "price": "4581.36",
+   "price": "4541.52",
    "sku": "LAB-4678",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG OLED evo AI G6 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1335,7 +1335,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099138196",
-   "price": "3455.04",
+   "price": "3670.98",
    "sku": "LAB-4679",
    "stock": "in stock",
    "title": "Samsung S95H 77″, 4K UHD, Black, OLED"
@@ -1355,7 +1355,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736178090",
-   "price": "3808.11",
+   "price": "3411.43",
    "sku": "LAB-4681",
    "stock": "in stock",
    "title": "Sony BRAVIA 9 II XR95 75″, 4K UHD, Black, RGB LED"
@@ -1365,7 +1365,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097974390",
-   "price": "3454.64",
+   "price": "3384.13",
    "sku": "LAB-4682",
    "stock": "in stock",
    "title": "Samsung R95H 75″, 4K UHD, Black, Micro RGB"
@@ -1375,9 +1375,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096835456",
-   "price": "5141.79",
+   "price": "4315.43",
    "sku": "LAB-4683",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG OLED evo AI W6 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1385,9 +1385,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096354223",
-   "price": "5869.83",
+   "price": "6154.77",
    "sku": "LAB-4684",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG Signature OLED Evo AI M5 77″, 4K UHD, Black, OLED"
   },
   {
@@ -1395,7 +1395,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529833",
-   "price": "4964.87",
+   "price": "3971.90",
    "sku": "LAB-4685",
    "stock": "in stock",
    "title": "TCL X11L 75″, 4K UHD, Brown, SQD Mini LED"
@@ -1405,7 +1405,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351432076",
-   "price": "910.11",
+   "price": "861.70",
    "sku": "LAB-4686",
    "stock": "out of stock",
    "title": "Hisense E7S 85″, 4K UHD, Black, HI-QLED"
@@ -1415,9 +1415,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097977551",
-   "price": "1240.66",
+   "price": "1140.40",
    "sku": "LAB-4688",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung U8092 85″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1425,9 +1425,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096725559",
-   "price": "1132.61",
+   "price": "1338.54",
    "sku": "LAB-4690",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG NANO85 AI 85″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1435,9 +1435,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097978275",
-   "price": "1384.38",
+   "price": "1330.62",
    "sku": "LAB-4692",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung M70H 85″, 4K UHD, Black, Mini LED"
   },
   {
@@ -1445,7 +1445,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351436074",
-   "price": "1245.14",
+   "price": "1258.39",
    "sku": "LAB-4694",
    "stock": "out of stock",
    "title": "Hisense E7S PRO 85″, 4K UHD, Black, HI-QLED"
@@ -1455,9 +1455,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531324",
-   "price": "1511.53",
+   "price": "1671.40",
    "sku": "LAB-4695",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "TCL P79L 85″, 4K UHD, Black, QLED"
   },
   {
@@ -1465,9 +1465,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351434148",
-   "price": "1425.73",
+   "price": "1439.70",
    "sku": "LAB-4697",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense E8S 85″, 4K UHD, Black, ULED Mini LED"
   },
   {
@@ -1475,7 +1475,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099014506",
-   "price": "1391.47",
+   "price": "1293.09",
    "sku": "LAB-4699",
    "stock": "in stock",
    "title": "Samsung M80H 85″, 4K UHD, Black, Mini LED"
@@ -1485,9 +1485,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351438061",
-   "price": "1335.41",
+   "price": "1550.79",
    "sku": "LAB-4701",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Hisense U7SE 85″, 4K UHD, Black, ULED Mini LED"
   },
   {
@@ -1495,9 +1495,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099024277",
-   "price": "1250.09",
+   "price": "1318.78",
    "sku": "LAB-4703",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Samsung QN70H 85″, 4K UHD, Black, Neo QLED"
   },
   {
@@ -1505,9 +1505,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351417608",
-   "price": "1409.17",
+   "price": "1606.15",
    "sku": "LAB-4705",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Hisense U7Q PRO 85″, 4K UHD, Black, ULED, Mini LED"
   },
   {
@@ -1515,7 +1515,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531904",
-   "price": "1285.99",
+   "price": "1452.41",
    "sku": "LAB-4707",
    "stock": "in stock",
    "title": "TCL A400U 85″, 4K UHD, Black, QD-Mini LED"
@@ -1527,7 +1527,7 @@
    "gtin": "6942351437590",
    "price": "2140.22",
    "sku": "LAB-4709",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Hisense U7S Pro 85″, 4K UHD, Black, ULED"
   },
   {
@@ -1535,7 +1535,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292531133",
-   "price": "2067.03",
+   "price": "1908.03",
    "sku": "LAB-4711",
    "stock": "in stock",
    "title": "TCL C79L 85″, 4K UHD, Black, SQD-Mini LED"
@@ -1545,7 +1545,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529970",
-   "price": "2616.16",
+   "price": "2592.80",
    "sku": "LAB-4713",
    "stock": "in stock",
    "title": "TCL RM7L 85″, 4K UHD, Black, RGB-Mini LED"
@@ -1555,9 +1555,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736177888",
-   "price": "1905.57",
+   "price": "2008.02",
    "sku": "LAB-4715",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Sony BRAVIA 3 II XR35 85″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1565,9 +1565,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097943099",
-   "price": "1698.78",
+   "price": "1808.38",
    "sku": "LAB-4717",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung QN80H 85″, 4K UHD, Black, Neo QLED"
   },
   {
@@ -1575,7 +1575,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351436883",
-   "price": "2838.03",
+   "price": "2493.22",
    "sku": "LAB-4719",
    "stock": "in stock",
    "title": "Hisense UR8S 85″, 4K UHD, Black, RGB Mini LED"
@@ -1585,7 +1585,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097963660",
-   "price": "2428.89",
+   "price": "2483.47",
    "sku": "LAB-4721",
    "stock": "in stock",
    "title": "Samsung S85H 83″, 4K UHD, Black, OLED"
@@ -1595,9 +1595,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "2000003059478",
-   "price": "967.67",
+   "price": "866.87",
    "sku": "LAB-4723",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Apple MacBook Neo 13 (A18 Pro, 2026), 512 GB, Blue, RUS, 6C/5C"
   },
   {
@@ -1605,9 +1605,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0198990116921",
-   "price": "727.99",
+   "price": "618.79",
    "sku": "LAB-4724",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP ProBook 465 G11 16″, 512 GB, Silver, ENG, WUXGA, Ryzen 5"
   },
   {
@@ -1615,7 +1615,7 @@
    "brand": "Google",
    "currency": "EUR",
    "gtin": "0840353925441",
-   "price": "1033.40",
+   "price": "906.86",
    "sku": "LAB-4725",
    "stock": "in stock",
    "title": "Google Pixel 10 Pro, 256 GB, Gray"
@@ -1625,7 +1625,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529888",
-   "price": "3125.78",
+   "price": "3185.32",
    "sku": "LAB-4726",
    "stock": "in stock",
    "title": "TCL C8L 85″, 4K UHD, Black, SQD-Mini LED"
@@ -1635,7 +1635,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096737019",
-   "price": "2909.66",
+   "price": "3362.27",
    "sku": "LAB-4728",
    "stock": "in stock",
    "title": "LG Mini RGB evo AI MRGB88 86″, 4K UHD, Dark Gray, Mini RGB"
@@ -1645,7 +1645,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099105419",
-   "price": "3646.86",
+   "price": "3464.52",
    "sku": "LAB-4730",
    "stock": "in stock",
    "title": "Samsung R85H 85″, 4K UHD, Black, Micro RGB"
@@ -1655,9 +1655,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736178250",
-   "price": "3987.48",
+   "price": "3460.83",
    "sku": "LAB-4732",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Sony BRAVIA 7 II XR75 85″, 4K UHD, Black, RGB LED"
   },
   {
@@ -1665,7 +1665,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099009397",
-   "price": "3765.99",
+   "price": "3869.64",
    "sku": "LAB-4734",
    "stock": "in stock",
    "title": "Samsung The Frame Pro 85″, 4K UHD, Black, Neo QLED Mini LED"
@@ -1685,9 +1685,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097078791",
-   "price": "3875.07",
+   "price": "3675.33",
    "sku": "LAB-4738",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung S95F 83″, 4K UHD, Black, OLED"
   },
   {
@@ -1695,7 +1695,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097952978",
-   "price": "4978.24",
+   "price": "4089.27",
    "sku": "LAB-4739",
    "stock": "in stock",
    "title": "Samsung S90H 83″, 4K UHD, Black, OLED"
@@ -1705,7 +1705,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096758427",
-   "price": "4503.35",
+   "price": "4160.23",
    "sku": "LAB-4741",
    "stock": "in stock",
    "title": "LG OLED evo AI C6 83″, 4K UHD, Dark Gray, OLED"
@@ -1715,9 +1715,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099126254",
-   "price": "5766.85",
+   "price": "4840.03",
    "sku": "LAB-4743",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Samsung S99H 83″, 4K UHD, Black, OLED"
   },
   {
@@ -1725,7 +1725,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736178052",
-   "price": "3975.05",
+   "price": "4200.90",
    "sku": "LAB-4745",
    "stock": "out of stock",
    "title": "Sony BRAVIA 9 II XR95 85″, 4K UHD, Black, RGB LED"
@@ -1735,7 +1735,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096767948",
-   "price": "4141.67",
+   "price": "3836.49",
    "sku": "LAB-4747",
    "stock": "in stock",
    "title": "LG OLED evo AI G6 83″, 4K UHD, Black, OLED"
@@ -1745,9 +1745,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096713143",
-   "price": "5949.15",
+   "price": "6222.05",
    "sku": "LAB-4749",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG QNED87 evo AI 86″, 4K UHD, Black, QNED Mini LED"
   },
   {
@@ -1755,7 +1755,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097974406",
-   "price": "5254.10",
+   "price": "5482.54",
    "sku": "LAB-4751",
    "stock": "in stock",
    "title": "Samsung R95H 85″, 4K UHD, Black, Micro RGB"
@@ -1765,7 +1765,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096835869",
-   "price": "6667.55",
+   "price": "5392.02",
    "sku": "LAB-4753",
    "stock": "in stock",
    "title": "LG OLED evo AI W6 83″, 4K UHD, Black, OLED"
@@ -1775,9 +1775,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529864",
-   "price": "5661.38",
+   "price": "6270.14",
    "sku": "LAB-4755",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "TCL RM9L 85″, 4K UHD, Black, RGB-Mini LED"
   },
   {
@@ -1785,9 +1785,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529826",
-   "price": "8511.04",
+   "price": "7467.23",
    "sku": "LAB-4756",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "TCL X11L 85″, 4K UHD, Brown, SQD Mini LED"
   },
   {
@@ -1795,9 +1795,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096396834",
-   "price": "7990.93",
+   "price": "7241.78",
    "sku": "LAB-4758",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG Signature OLED Evo AI M5 83″, 4K UHD, Black, OLED"
   },
   {
@@ -1805,7 +1805,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099137427",
-   "price": "2117.09",
+   "price": "2018.16",
    "sku": "LAB-4760",
    "stock": "in stock",
    "title": "Samsung U9072 98″, 4K UHD, Black, LED LCD"
@@ -1815,9 +1815,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096843246",
-   "price": "2390.80",
+   "price": "2266.07",
    "sku": "LAB-4761",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG NANO AI NU90 98″, 4K UHD, Black, LED LCD"
   },
   {
@@ -1825,7 +1825,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099140434",
-   "price": "2409.62",
+   "price": "1973.60",
    "sku": "LAB-4762",
    "stock": "in stock",
    "title": "Samsung M90H 100″, 4K UHD, Black, Mini LED"
@@ -1835,7 +1835,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351418414",
-   "price": "1818.51",
+   "price": "1838.28",
    "sku": "LAB-4763",
    "stock": "in stock",
    "title": "Hisense U7Q 100″, 4K UHD, Black, Mini LED"
@@ -1845,7 +1845,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351435909",
-   "price": "2162.77",
+   "price": "2266.75",
    "sku": "LAB-4764",
    "stock": "in stock",
    "title": "Hisense E7S PRO 100″, 4K UHD, Black, HI-QLED"
@@ -1855,7 +1855,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096844663",
-   "price": "4101.39",
+   "price": "4371.81",
    "sku": "LAB-4766",
    "stock": "in stock",
    "title": "LG QNED93 evo AI 115″, 4K UHD, Black, QNED Mini LED"
@@ -1865,7 +1865,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292529857",
-   "price": "7895.64",
+   "price": "9211.58",
    "sku": "LAB-4767",
    "stock": "in stock",
    "title": "TCL RM9L 98″, 4K UHD, Black, RGB-Mini LED"
@@ -1875,9 +1875,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292525699",
-   "price": "7693.17",
+   "price": "8589.47",
    "sku": "LAB-4769",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "TCL C7K 115″, 4K UHD, Black, Mini LED"
   },
   {
@@ -1885,9 +1885,9 @@
    "brand": "eSTAR",
    "currency": "EUR",
    "gtin": "5292403132296",
-   "price": "135.65",
+   "price": "128.32",
    "sku": "LAB-4770",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "eSTAR 22R2T2 22″, Black, LED, FullHD"
   },
   {
@@ -1895,9 +1895,9 @@
    "brand": "eSTAR",
    "currency": "EUR",
    "gtin": "5292411440246",
-   "price": "124.95",
+   "price": "106.43",
    "sku": "LAB-4771",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "eSTAR 24R2T2 24″, Black, LED, HD"
   },
   {
@@ -1905,7 +1905,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045961",
-   "price": "186.47",
+   "price": "166.93",
    "sku": "LAB-4772",
    "stock": "in stock",
    "title": "Philips PHS6000 24″, Dark Gray, LED, HD"
@@ -1915,9 +1915,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051535",
-   "price": "167.61",
+   "price": "150.15",
    "sku": "LAB-4773",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips PHS6050 24″, Dark Gray, LED, HD"
   },
   {
@@ -1925,9 +1925,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096798775",
-   "price": "165.81",
+   "price": "151.70",
    "sku": "LAB-4774",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG LB70 24″, Black, FHD, LED LCD"
   },
   {
@@ -1935,9 +1935,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097240877",
-   "price": "200.63",
+   "price": "198.81",
    "sku": "LAB-4775",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung F6002F 24″, Black, Full HD, LED"
   },
   {
@@ -1945,9 +1945,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097241447",
-   "price": "234.99",
+   "price": "239.30",
    "sku": "LAB-4776",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung F6002F 27″, Black, Full HD, LED"
   },
   {
@@ -1955,7 +1955,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863048160",
-   "price": "110.91",
+   "price": "102.22",
    "sku": "LAB-4778",
    "stock": "preorder",
    "title": "Philips PHS5500 32″, Black, HD, LED LCD"
@@ -1965,7 +1965,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351417943",
-   "price": "143.60",
+   "price": "165.56",
    "sku": "LAB-4779",
    "stock": "in stock",
    "title": "Hisense A4Q 32″, Black, HD, LED LCD"
@@ -1975,9 +1975,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351429205",
-   "price": "183.90",
+   "price": "199.72",
    "sku": "LAB-4780",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Hisense A4S 32″, Black, HD, LED LCD"
   },
   {
@@ -1985,7 +1985,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863048153",
-   "price": "157.25",
+   "price": "147.11",
    "sku": "LAB-4781",
    "stock": "preorder",
    "title": "Philips PFS6900 32″, Black, LED, Full HD"
@@ -1995,9 +1995,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863048177",
-   "price": "220.67",
+   "price": "166.94",
    "sku": "LAB-4782",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips PHS6050 32″, Dark Gray, LED, HD"
   },
   {
@@ -2005,9 +2005,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806091256041",
-   "price": "165.96",
+   "price": "153.33",
    "sku": "LAB-4784",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG LQ6380 32″ (2022), White, stand"
   },
   {
@@ -2015,9 +2015,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806091636959",
-   "price": "211.22",
+   "price": "261.73",
    "sku": "LAB-4785",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "LG LQ6300 32″ (2022), Ceramic Black, stand"
   },
   {
@@ -2027,7 +2027,7 @@
    "gtin": "8718863051542",
    "price": "244.85",
    "sku": "LAB-4786",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips PFS6050 32″, Gray, LED, FHD"
   },
   {
@@ -2035,7 +2035,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351429441",
-   "price": "209.75",
+   "price": "192.97",
    "sku": "LAB-4787",
    "stock": "preorder",
    "title": "Hisense A5S 32″, Black, FHD, HI-QLED"
@@ -2045,7 +2045,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292530389",
-   "price": "242.42",
+   "price": "221.57",
    "sku": "LAB-4788",
    "stock": "preorder",
    "title": "TCL S5L 32″, Black, FHD, QLED"
@@ -2055,7 +2055,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051580",
-   "price": "271.43",
+   "price": "258.38",
    "sku": "LAB-4789",
    "stock": "preorder",
    "title": "Philips PQS6901 32″, Black, QLED, Full HD"
@@ -2065,9 +2065,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736153448",
-   "price": "409.96",
+   "price": "345.80",
    "sku": "LAB-4790",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Sony W800 32″, Black"
   },
   {
@@ -2075,7 +2075,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094949926",
-   "price": "426.92",
+   "price": "415.68",
    "sku": "LAB-4791",
    "stock": "in stock",
    "title": "Samsung The Frame LS03C 32″, Black, Full HD, QLED"
@@ -2087,7 +2087,7 @@
    "gtin": "6942351418315",
    "price": "257.14",
    "sku": "LAB-4792",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense A5Q 40″, Black, Full HD, QLED"
   },
   {
@@ -2095,7 +2095,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351429359",
-   "price": "182.48",
+   "price": "214.22",
    "sku": "LAB-4793",
    "stock": "out of stock",
    "title": "Hisense A4S 40″, Black, HD, LED LCD"
@@ -2105,9 +2105,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046012",
-   "price": "232.01",
+   "price": "243.97",
    "sku": "LAB-4795",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Philips PUS7000 43″, 4K UHD, Black, LED LCD"
   },
   {
@@ -2115,9 +2115,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351415628",
-   "price": "236.58",
+   "price": "249.97",
    "sku": "LAB-4796",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Hisense A6Q 43″, 4K UHD, Black, LED LCD"
   },
   {
@@ -2125,7 +2125,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051559",
-   "price": "247.51",
+   "price": "216.57",
    "sku": "LAB-4797",
    "stock": "in stock",
    "title": "Philips PFS6050 40″, Dark Gray, LED, FHD"
@@ -2135,9 +2135,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351429632",
-   "price": "301.09",
+   "price": "252.34",
    "sku": "LAB-4799",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense A5S 40″, Black, FHD, HI-QLED"
   },
   {
@@ -2145,9 +2145,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046289",
-   "price": "241.71",
+   "price": "274.11",
    "sku": "LAB-4801",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Philips PUS8010 43″, 4K UHD, Black, LED"
   },
   {
@@ -2155,9 +2155,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292527440",
-   "price": "229.49",
+   "price": "264.59",
    "sku": "LAB-4802",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "TCL S59K 43″, Black, FHD, QLED VA"
   },
   {
@@ -2165,9 +2165,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351430102",
-   "price": "270.85",
+   "price": "299.37",
    "sku": "LAB-4803",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Hisense A6S 43″, 4K UHD, Black, VA LCD"
   },
   {
@@ -2175,9 +2175,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045794",
-   "price": "263.66",
+   "price": "322.60",
    "sku": "LAB-4804",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips PUS8560 43″, 4K UHD, Black, QLED"
   },
   {
@@ -2185,7 +2185,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096362235",
-   "price": "340.65",
+   "price": "399.26",
    "sku": "LAB-4805",
    "stock": "preorder",
    "title": "LG NANO81 AI 43″, Black, LED LCD, NanoCell"
@@ -2195,7 +2195,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292530372",
-   "price": "326.69",
+   "price": "270.26",
    "sku": "LAB-4807",
    "stock": "preorder",
    "title": "TCL S5L 40″, Black, FHD, QLED"
@@ -2205,7 +2205,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051597",
-   "price": "329.86",
+   "price": "313.69",
    "sku": "LAB-4809",
    "stock": "in stock",
    "title": "Philips PQS6901 40″, Black, QLED, Full HD"
@@ -2215,9 +2215,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051702",
-   "price": "415.26",
+   "price": "446.90",
    "sku": "LAB-4811",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips PUS8001 43″, 4K UHD, Black, LED"
   },
   {
@@ -2225,9 +2225,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097120193",
-   "price": "318.19",
+   "price": "395.89",
    "sku": "LAB-4812",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung Q8F 43″, 4K UHD, Black, QLED"
   },
   {
@@ -2235,9 +2235,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096729519",
-   "price": "395.68",
+   "price": "381.80",
    "sku": "LAB-4813",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "LG QNED72 AI 43″, 4K UHD, Black, QNED Mini LED"
   },
   {
@@ -2245,7 +2245,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045770",
-   "price": "351.30",
+   "price": "403.07",
    "sku": "LAB-4815",
    "stock": "preorder",
    "title": "Philips PUS8510 43″, 4K UHD, Black, QLED"
@@ -2255,7 +2255,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096396674",
-   "price": "409.59",
+   "price": "536.70",
    "sku": "LAB-4817",
    "stock": "in stock",
    "title": "LG QNED86 evo AI 43″, 4K UHD, Black, QNED, Mini LED"
@@ -2265,7 +2265,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045954",
-   "price": "445.89",
+   "price": "494.89",
    "sku": "LAB-4819",
    "stock": "in stock",
    "title": "Philips The One PUS9060 43″, 4K UHD, Black, QLED"
@@ -2275,7 +2275,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736180420",
-   "price": "456.27",
+   "price": "617.31",
    "sku": "LAB-4820",
    "stock": "in stock",
    "title": "Sony Bravia 2 II S25M 43″, 4K UHD, Black, LED LCD"
@@ -2285,9 +2285,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046029",
-   "price": "357.30",
+   "price": "385.32",
    "sku": "LAB-4822",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips PUS7000 50″, 4K UHD, Black, LED LCD"
   },
   {
@@ -2295,7 +2295,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199485211961",
-   "price": "626.55",
+   "price": "633.67",
    "sku": "LAB-4824",
    "stock": "in stock",
    "title": "HP OmniBook 5 16″, 512 GB, Silver, ENG, WUXGA, OLED, i5"
@@ -2305,9 +2305,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "6419683017481",
-   "price": "851.34",
+   "price": "787.26",
    "sku": "LAB-4825",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Käytetyt tuotteet ZBook 15 G7 15.6″, Used"
   },
   {
@@ -2315,7 +2315,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0198990436791",
-   "price": "2507.30",
+   "price": "2837.94",
    "sku": "LAB-4826",
    "stock": "in stock",
    "title": "HP EliteBook X G1a 14″, Windows 11 Pro (B66T7AT)"
@@ -2325,9 +2325,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0198155506222",
-   "price": "1005.51",
+   "price": "936.50",
    "sku": "LAB-4827",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Lenovo IdeaPad Slim 5 13.3″, Windows 11 Home (83J2001JMX)"
   },
   {
@@ -2335,7 +2335,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387878446",
-   "price": "1167.60",
+   "price": "1291.09",
    "sku": "LAB-4828",
    "stock": "in stock",
    "title": "Asus Zenbook A14, Windows 11 (UX3407QA-PURE1)"
@@ -2345,9 +2345,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195949893148",
-   "price": "1459.56",
+   "price": "1184.17",
    "sku": "LAB-4829",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Apple MacBook Air 15.3″ (M4, 2025) (MC7A4), 256 GB, Sky Blue"
   },
   {
@@ -2355,9 +2355,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "5713552039682",
-   "price": "606.69",
+   "price": "539.28",
    "sku": "LAB-4831",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Käytetyt tuotteet Lenovo ThinkPad X1 Yoga Gen 5 tietokone 14″, Windows 11 Pro (LAP-X1YOGA-5TH-MX-C002), Used"
   },
   {
@@ -2365,7 +2365,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271392270",
-   "price": "1861.59",
+   "price": "2311.64",
    "sku": "LAB-4832",
    "stock": "in stock",
    "title": "Lenovo ThinkPad T14s Gen 6 14″, Windows 11 Pro (21TB001TMX)"
@@ -2375,9 +2375,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251660801",
-   "price": "356.39",
+   "price": "359.95",
    "sku": "LAB-4833",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP Laptop 15-fc0069no 15.6″, 256 GB, Black"
   },
   {
@@ -2385,9 +2385,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251660863",
-   "price": "2276.63",
+   "price": "2254.31",
    "sku": "LAB-4834",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "HP OMEN MAX 16-ak0007no pelikannettava 16″, Windows 11 (BV9P2EA)"
   },
   {
@@ -2395,9 +2395,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251660719",
-   "price": "342.23",
+   "price": "371.67",
    "sku": "LAB-4835",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP Laptop 14-em0049no 14\" kannettava (BV9M7EA)"
   },
   {
@@ -2405,7 +2405,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636132084",
-   "price": "1389.74",
+   "price": "1376.99",
    "sku": "LAB-4836",
    "stock": "in stock",
    "title": "ASUS TUF Gaming A16 kannettava (FA608UP-QT016W), Windows 11"
@@ -2415,9 +2415,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "0196388038893",
-   "price": "728.63",
+   "price": "689.03",
    "sku": "LAB-4837",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Käytetyt tuotteet Microsoft Surface Laptop 5 13.5″, musta (11009002741l), Windows 11 Pro"
   },
   {
@@ -2425,7 +2425,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184960622",
-   "price": "2817.44",
+   "price": "2892.91",
    "sku": "LAB-4838",
    "stock": "in stock",
    "title": "Dell 14 Premium 14″, Windows 11 Pro (882V6)"
@@ -2435,7 +2435,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184960615",
-   "price": "2678.89",
+   "price": "2589.59",
    "sku": "LAB-4839",
    "stock": "in stock",
    "title": "Dell 14 Premium 14″, Windows 11 Pro (Y94PD)"
@@ -2445,9 +2445,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184967171",
-   "price": "2721.59",
+   "price": "3477.59",
    "sku": "LAB-4840",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Dell 16 Premium 16″, Windows 11 Pro (W56RR)"
   },
   {
@@ -2455,9 +2455,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184968253",
-   "price": "2316.29",
+   "price": "1976.29",
    "sku": "LAB-4841",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Dell Pro Max 14 tietokone, Windows 11 Pro (5GXYM)"
   },
   {
@@ -2465,9 +2465,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184968635",
-   "price": "2455.95",
+   "price": "2148.96",
    "sku": "LAB-4842",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Dell Pro Max 16 tietokone, Windows 11 Pro (5DT0K)"
   },
   {
@@ -2475,7 +2475,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184967928",
-   "price": "5296.95",
+   "price": "5789.69",
    "sku": "LAB-4843",
    "stock": "in stock",
    "title": "Dell Pro Max 18 Plus tietokone, Windows 11 Pro (6FGFP)"
@@ -2485,7 +2485,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184966945",
-   "price": "4465.06",
+   "price": "5305.54",
    "sku": "LAB-4844",
    "stock": "out of stock",
    "title": "Dell Pro Max 18 Plus tietokone, Windows 11 Pro (W8DCT)"
@@ -2495,9 +2495,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184966426",
-   "price": "4762.06",
+   "price": "3561.19",
    "sku": "LAB-4845",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Dell Pro Max 14 Premium tietokone, Windows 11 Pro (0MTJ8)"
   },
   {
@@ -2505,9 +2505,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184966211",
-   "price": "4175.96",
+   "price": "3539.62",
    "sku": "LAB-4846",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Dell Pro Max 16 Premium kannettava tietokone, Windows 11 Pro (HMJNX)"
   },
   {
@@ -2515,7 +2515,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199485083506",
-   "price": "5519.21",
+   "price": "5840.72",
    "sku": "LAB-4847",
    "stock": "in stock",
    "title": "HP ZBook Fury G1i 16 tietokone, Windows 11 Pro (98L65ET)"
@@ -2525,7 +2525,7 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "0195697325038",
-   "price": "394.87",
+   "price": "350.55",
    "sku": "LAB-4848",
    "stock": "in stock",
    "title": "Käytetyt tuotteet ProBook 440 G8 14″, 256 GB, Silver, Used"
@@ -2535,9 +2535,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "0195891344866",
-   "price": "522.53",
+   "price": "512.38",
    "sku": "LAB-4849",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Käytetyt tuotteet ThinkPad X13 G2 13.3″, 512 GB, Wi-Fi, Black, Used"
   },
   {
@@ -2545,9 +2545,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "0193905604593",
-   "price": "275.01",
+   "price": "304.26",
    "sku": "LAB-4850",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Käytetyt tuotteet EliteBook 830 G6 13.3″, 240 GB, Wi-Fi, Silver, Used"
   },
   {
@@ -2555,7 +2555,7 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184977095",
-   "price": "547.81",
+   "price": "595.97",
    "sku": "LAB-4851",
    "stock": "in stock",
    "title": "Dell Pro 14 Essential tietokone 14″, Windows 11 Pro (J8JNW)"
@@ -2565,9 +2565,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184977002",
-   "price": "940.15",
+   "price": "922.07",
    "sku": "LAB-4852",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Dell Pro 14 Essential tietokone 14″, Windows 11 Pro (3Y6TN)"
   },
   {
@@ -2575,9 +2575,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096719756",
-   "price": "709.03",
+   "price": "665.87",
    "sku": "LAB-4853",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG NU80 55″ (2026), Black"
   },
   {
@@ -2585,9 +2585,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0198158501101",
-   "price": "1338.11",
+   "price": "1213.95",
    "sku": "LAB-4854",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Lenovo LOQ 15AHP10 pelikannettava 15.6″, Windows 11 Home (83JG001WMX)"
   },
   {
@@ -2595,7 +2595,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0826581094890",
-   "price": "5033.90",
+   "price": "4474.58",
    "sku": "LAB-4855",
    "stock": "in stock",
    "title": "HP ZBook 8 G2i 14 tietokone, Windows 11 Pro (DH1H6ET#UUW)"
@@ -2605,9 +2605,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184969205",
-   "price": "2268.65",
+   "price": "2520.72",
    "sku": "LAB-4856",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Dell Pro 16 Plus tietokone, Windows 11 Pro (P34G4)"
   },
   {
@@ -2615,7 +2615,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "08806095972671",
-   "price": "922.37",
+   "price": "764.48",
    "sku": "LAB-4857",
    "stock": "in stock",
    "title": "Samsung QN73F 55″ (2025), Black, stand"
@@ -2625,9 +2625,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097210825",
-   "price": "875.78",
+   "price": "728.53",
    "sku": "LAB-4858",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung QN85F 55″ (2025), Eclipse Silver"
   },
   {
@@ -2635,7 +2635,7 @@
    "brand": "PEAQ",
    "currency": "EUR",
    "gtin": "4049011212923",
-   "price": "300.57",
+   "price": "236.73",
    "sku": "LAB-4859",
    "stock": "in stock",
    "title": "PEAQ PTV 43GQU-5025T Google QLED UHD TV 43″"
@@ -2645,7 +2645,7 @@
    "brand": "STRONG",
    "currency": "EUR",
    "gtin": "9120072377143",
-   "price": "240.19",
+   "price": "210.69",
    "sku": "LAB-4860",
    "stock": "in stock",
    "title": "STRONG SRT40FF2003C Full HD TV 40″ (2024)"
@@ -2655,7 +2655,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095911434",
-   "price": "572.33",
+   "price": "493.78",
    "sku": "LAB-4861",
    "stock": "in stock",
    "title": "Samsung GQ QN 70 55″, Glossy"
@@ -2665,7 +2665,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096348093",
-   "price": "310.85",
+   "price": "410.90",
    "sku": "LAB-4862",
    "stock": "in stock",
    "title": "LG 50UA75006LA UHD Smart TV 50″ (2025)"
@@ -2675,7 +2675,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736167698",
-   "price": "1492.64",
+   "price": "1321.61",
    "sku": "LAB-4863",
    "stock": "in stock",
    "title": "Sony BRAVIA 3 85″ (2025), Direct LED, X-Balanced Speaker, Dolby Vision/Atmos, IMAX Enhanced, Google TV"
@@ -2685,9 +2685,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095490229",
-   "price": "976.06",
+   "price": "1074.77",
    "sku": "LAB-4864",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Samsung DU8070 Crystal UHD Smart TV 75″ (2024)"
   },
   {
@@ -2695,7 +2695,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046142",
-   "price": "284.64",
+   "price": "294.02",
    "sku": "LAB-4865",
    "stock": "in stock",
    "title": "Philips 50PUS7800 4K QLED Smart TV 50″ (2025)"
@@ -2705,9 +2705,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096365489",
-   "price": "757.96",
+   "price": "796.63",
    "sku": "LAB-4866",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "LG 75NANO80A6B 4K NanoCell Smart TV 75″ (2025)"
   },
   {
@@ -2715,7 +2715,7 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292525989",
-   "price": "345.09",
+   "price": "390.10",
    "sku": "LAB-4867",
    "stock": "in stock",
    "title": "TCL 55V6C 55″"
@@ -2725,7 +2725,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351416762",
-   "price": "469.29",
+   "price": "409.01",
    "sku": "LAB-4868",
    "stock": "in stock",
    "title": "HISENSE 55E77Q PRO Fernseher (Flat, 55 Zoll / 139,7 cm, UHD 4K, SMART TV)"
@@ -2735,9 +2735,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095995472",
-   "price": "1115.70",
+   "price": "1139.44",
    "sku": "LAB-4869",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "SAMSUNG QN82F (2025) 65 Zoll Neo QLED 4K Mini LED Vision AI TV"
   },
   {
@@ -2745,7 +2745,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094883640",
-   "price": "677.50",
+   "price": "699.83",
    "sku": "LAB-4870",
    "stock": "in stock",
    "title": "Samsung GU75CU7199U 75″, Black, stand"
@@ -2755,9 +2755,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094224153",
-   "price": "749.64",
+   "price": "850.71",
    "sku": "LAB-4871",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung QE55Q80BAT 55″"
   },
   {
@@ -2765,9 +2765,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094882148",
-   "price": "299.47",
+   "price": "364.13",
    "sku": "LAB-4872",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung GU55CU7199U 55″, Glossy, Black, stand"
   },
   {
@@ -2775,9 +2775,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095492001",
-   "price": "1496.71",
+   "price": "1467.07",
    "sku": "LAB-4873",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung TQ75Q80DAT 75″, Glossy, stand"
   },
   {
@@ -2785,7 +2785,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351406367",
-   "price": "537.59",
+   "price": "507.73",
    "sku": "LAB-4874",
    "stock": "in stock",
    "title": "HISENSE 55E6NT Fernseher (Flat, 55 Zoll / 139,70 cm, UHD 4K, SMART TV)"
@@ -2795,7 +2795,7 @@
    "brand": "THOMSON",
    "currency": "EUR",
    "gtin": "9120106662894",
-   "price": "891.66",
+   "price": "711.77",
    "sku": "LAB-4875",
    "stock": "preorder",
    "title": "THOMSON 65QG4S14 65″"
@@ -2805,9 +2805,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "5013493474635",
-   "price": "6767.16",
+   "price": "6829.24",
    "sku": "LAB-4876",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Sony FWD-77XR80 77″, Glossy, Black, stand"
   },
   {
@@ -2815,9 +2815,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045817",
-   "price": "434.85",
+   "price": "396.10",
    "sku": "LAB-4877",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips 50PUS8510 50″"
   },
   {
@@ -2825,9 +2825,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097124399",
-   "price": "2149.15",
+   "price": "2453.07",
    "sku": "LAB-4878",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "SAMSUNG The Frame TQ65LS03FWU Fernseher (Flat, 65 Zoll / 165,1 cm, UHD 4K, SMART TV)"
   },
   {
@@ -2845,7 +2845,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251186080",
-   "price": "1657.22",
+   "price": "1839.33",
    "sku": "LAB-4881",
    "stock": "in stock",
    "title": "HP OMEN 16-ap0902ng 16″, 1 TB, Shadow Black"
@@ -2855,7 +2855,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "4262595980020",
-   "price": "661.01",
+   "price": "770.04",
    "sku": "LAB-4882",
    "stock": "out of stock",
    "title": "HP 255R G10 15.6″, 1 TB, Dark Ash Silver"
@@ -2865,7 +2865,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017348201",
-   "price": "1082.22",
+   "price": "861.77",
    "sku": "LAB-4883",
    "stock": "preorder",
    "title": "Asus ExpertBook PM1 15.6″, 250 GB, Gray"
@@ -2875,7 +2875,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "4262595980822",
-   "price": "331.09",
+   "price": "309.43",
    "sku": "LAB-4884",
    "stock": "preorder",
    "title": "HP ProBook 440 G7 14″, 256 GB, Silver, Refurbished"
@@ -2885,9 +2885,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017350129",
-   "price": "3618.90",
+   "price": "4257.53",
    "sku": "LAB-4885",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Asus ROG Strix G18 18″, 4 TB, Gray"
   },
   {
@@ -2895,9 +2895,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017350846",
-   "price": "3625.12",
+   "price": "2919.34",
    "sku": "LAB-4886",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Asus ROG Strix G18 18″, 2 TB, Gray"
   },
   {
@@ -2905,9 +2905,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017350747",
-   "price": "2468.98",
+   "price": "2821.69",
    "sku": "LAB-4888",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Asus ROG Strix G18 18″, 1 TB, Gray"
   },
   {
@@ -2915,7 +2915,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017350532",
-   "price": "2144.57",
+   "price": "2378.14",
    "sku": "LAB-4889",
    "stock": "in stock",
    "title": "ASUS ROG Strix G18, Office 2024 Pro, Notebook mit 18 Zoll Display, AMD Ryzen 9 Prozessor, 16 GB RAM, 4 TB SSD, Eclipse Gray"
@@ -2927,7 +2927,7 @@
    "gtin": "4718017350921",
    "price": "2588.83",
    "sku": "LAB-4890",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Asus ROG Strix G18 18″, 8 TB, Gray"
   },
   {
@@ -2935,9 +2935,9 @@
    "brand": "FUJITSU",
    "currency": "EUR",
    "gtin": "4262595980846",
-   "price": "372.21",
+   "price": "407.11",
    "sku": "LAB-4891",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "FUJITSU LifeBook U7411 14″, 512 GB, Silver"
   },
   {
@@ -2945,7 +2945,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "4262595980402",
-   "price": "314.07",
+   "price": "265.75",
    "sku": "LAB-4892",
    "stock": "in stock",
    "title": "Lenovo ThinkBook 14 IIL 14″, 256 GB, Silver"
@@ -2955,9 +2955,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0821844476154",
-   "price": "1817.09",
+   "price": "1776.71",
    "sku": "LAB-4893",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "HP HyperX OMEN Gaming Laptop PC 16-ap1903ng 16″, AMD Ryzen 7 8745HX Prozessor, 16 GB, Full-HD, 1 x 16 GB, Windows 11 Home, GeForce RTX 5060"
   },
   {
@@ -2965,9 +2965,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017349109",
-   "price": "2739.63",
+   "price": "2948.36",
    "sku": "LAB-4894",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Asus TUF A18 18″, 4 TB, Jaeger Gray"
   },
   {
@@ -2975,9 +2975,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251511585",
-   "price": "2201.46",
+   "price": "2062.42",
    "sku": "LAB-4895",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP EliteBook 6 G1a 16″, 1 TB"
   },
   {
@@ -2985,7 +2985,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251511370",
-   "price": "1878.75",
+   "price": "1466.75",
    "sku": "LAB-4896",
    "stock": "in stock",
    "title": "HP EliteBook 8 G1i 16″, 512 GB"
@@ -2995,7 +2995,7 @@
    "brand": "Acer",
    "currency": "EUR",
    "gtin": "4711121268601",
-   "price": "2026.18",
+   "price": "2048.20",
    "sku": "LAB-4897",
    "stock": "in stock",
    "title": "Acer Nitro V17 AI 17.3″, 4 TB, Black"
@@ -3005,7 +3005,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017349444",
-   "price": "3164.56",
+   "price": "3001.44",
    "sku": "LAB-4898",
    "stock": "in stock",
    "title": "Asus TUF A18 18″, 8 TB, Gray"
@@ -3015,7 +3015,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4718017349567",
-   "price": "3097.93",
+   "price": "3608.17",
    "sku": "LAB-4900",
    "stock": "in stock",
    "title": "ASUS TUF A18, Office 2024 Pro, Notebook mit 18 Zoll Display, AMD Ryzen 7 Prozessor, 128 GB RAM, 4 TB SSD, Jaeger Gray"
@@ -3025,7 +3025,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0194778253413",
-   "price": "1936.83",
+   "price": "2359.81",
    "sku": "LAB-4901",
    "stock": "in stock",
    "title": "Lenovo LOQ 17IRX10 17.3″, 500 GB, Luna Grey"
@@ -3035,7 +3035,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097110668",
-   "price": "488.05",
+   "price": "463.65",
    "sku": "LAB-4902",
    "stock": "in stock",
    "title": "Samsung GQ43Q8FAAUXZG 43″, Titangrau, stand"
@@ -3045,9 +3045,9 @@
    "brand": "Xiaomi",
    "currency": "EUR",
    "gtin": "6971408156436",
-   "price": "233.99",
+   "price": "209.24",
    "sku": "LAB-4903",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "XIAOMI Ready Android TV P1E Fernseher (Flat, 32 Zoll / 81,28 cm, HD, SMART TV)"
   },
   {
@@ -3055,7 +3055,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095312767",
-   "price": "279.57",
+   "price": "284.65",
    "sku": "LAB-4904",
    "stock": "in stock",
    "title": "Samsung Series 7 UE43CU7092U 43″, Glossy, Black, stand"
@@ -3065,9 +3065,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094412437",
-   "price": "449.55",
+   "price": "491.69",
    "sku": "LAB-4905",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung Series 7 65″, Glossy"
   },
   {
@@ -3075,9 +3075,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094416633",
-   "price": "328.21",
+   "price": "304.97",
    "sku": "LAB-4906",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Samsung UE50AU7025 50″, Black"
   },
   {
@@ -3085,9 +3085,9 @@
    "brand": "CHIQ",
    "currency": "EUR",
    "gtin": "8592344204258",
-   "price": "237.35",
+   "price": "245.09",
    "sku": "LAB-4907",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "CHIQ 43 G 7 LX 43″"
   },
   {
@@ -3095,9 +3095,9 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806087093643",
-   "price": "571.68",
+   "price": "594.10",
    "sku": "LAB-4909",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "LG 50UR78003LK 50″, Black"
   },
   {
@@ -3105,9 +3105,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863040997",
-   "price": "239.89",
+   "price": "200.29",
    "sku": "LAB-4912",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips 32PHS6009/12 32″"
   },
   {
@@ -3115,9 +3115,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806099140441",
-   "price": "2751.90",
+   "price": "2699.49",
    "sku": "LAB-4916",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "SAMSUNG 100\" Mini LED M90H, NQ4 AI Gen2 Prozessor, Motion Xcelerator 144Hz, Vision AI TV (2026)"
   },
   {
@@ -3125,9 +3125,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096004463",
-   "price": "1385.46",
+   "price": "1254.76",
    "sku": "LAB-4920",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "LG OLED55C49LA OLED evo C4 4K Smart TV 55″ (2024)"
   },
   {
@@ -3135,9 +3135,9 @@
    "brand": "WE. BY LOEWE",
    "currency": "EUR",
    "gtin": "4011880177368",
-   "price": "2139.66",
+   "price": "1957.56",
    "sku": "LAB-4922",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "WE. BY LOEWE SEE 55″, Glossy"
   },
   {
@@ -3145,7 +3145,7 @@
    "brand": "SHARP",
    "currency": "EUR",
    "gtin": "5905683274739",
-   "price": "514.95",
+   "price": "504.55",
    "sku": "LAB-4925",
    "stock": "in stock",
    "title": "SHARP 65HP6465E 65″, Glossy, Black, stand"
@@ -3155,7 +3155,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090890802",
-   "price": "326.00",
+   "price": "399.62",
    "sku": "LAB-4926",
    "stock": "in stock",
    "title": "Samsung GQ 43 Q 60 AAUXZG 43″"
@@ -3165,9 +3165,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090318467",
-   "price": "352.57",
+   "price": "356.44",
    "sku": "LAB-4927",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung GQ 43 Q 60 TGUXZG 43″, Glossy, Nachtschwarz, stand"
   },
   {
@@ -3175,9 +3175,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090318474",
-   "price": "552.64",
+   "price": "454.83",
    "sku": "LAB-4928",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "SAMSUNG GQ 50 Q 60 TGUXZG QLED TV (Flat, 50 Zoll / 125 cm, UHD 4K, SMART TV)"
   },
   {
@@ -3185,7 +3185,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806092050709",
-   "price": "584.91",
+   "price": "645.21",
    "sku": "LAB-4929",
    "stock": "preorder",
    "title": "SAMSUNG GQ 50 LS 03 AAUXZG QLED TV (Flat, 50 Zoll / 125 cm, UHD 4K, SMART TV)"
@@ -3195,7 +3195,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095429533",
-   "price": "616.27",
+   "price": "672.87",
    "sku": "LAB-4930",
    "stock": "in stock",
    "title": "Samsung GQ 50 LS 03 DAUXZG 50″, Glossy"
@@ -3205,9 +3205,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0194253408581",
-   "price": "329.89",
+   "price": "369.77",
    "sku": "LAB-4931",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Apple IPHONE 14 Polarstern Dual SIM, 128 GB, White"
   },
   {
@@ -3215,7 +3215,7 @@
    "brand": "VIVO",
    "currency": "EUR",
    "gtin": "6932204515513",
-   "price": "843.35",
+   "price": "835.08",
    "sku": "LAB-4932",
    "stock": "in stock",
    "title": "VIVO X300, 256 GB, Phantom Black, Dual SIM"
@@ -3225,7 +3225,7 @@
    "brand": "OPPO",
    "currency": "EUR",
    "gtin": "6932169382700",
-   "price": "973.91",
+   "price": "1020.73",
    "sku": "LAB-4933",
    "stock": "in stock",
    "title": "OPPO Find X9 Pro Zweifarbig Dual SIM, 512 GB"
@@ -3235,9 +3235,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387900727",
-   "price": "1004.39",
+   "price": "1026.71",
    "sku": "LAB-4934",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Asus Vivobook S14, Windows 11 (M5406KA-PP110W)"
   },
   {
@@ -3245,9 +3245,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387867358",
-   "price": "1369.59",
+   "price": "1383.29",
    "sku": "LAB-4935",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Asus Vivobook S14, Windows 11 (M5406KA-QD015W)"
   },
   {
@@ -3255,7 +3255,7 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195949841958",
-   "price": "1640.95",
+   "price": "1810.70",
    "sku": "LAB-4936",
    "stock": "in stock",
    "title": "Apple MacBook Air 15.3″ (M4, 2025) (MW1L3), 256 GB, Keskiyö"
@@ -3265,9 +3265,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387878750",
-   "price": "849.14",
+   "price": "650.24",
    "sku": "LAB-4937",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "ASUS Vivobook 15 OLED 15\" kannettava (D1505YA-L1370W), Windows 11"
   },
   {
@@ -3275,9 +3275,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711387889350",
-   "price": "909.66",
+   "price": "759.37",
    "sku": "LAB-4938",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Asus Vivobook 14 14″, 512 GB, Indie Black"
   },
   {
@@ -3285,9 +3285,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095995540",
-   "price": "600.09",
+   "price": "582.27",
    "sku": "LAB-4939",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung QN80F 55″, Carbon Silver, 4K, Mini-LED"
   },
   {
@@ -3297,7 +3297,7 @@
    "gtin": "8806097068297",
    "price": "5809.01",
    "sku": "LAB-4940",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Samsung QN900F 85″ (2025), Titan Black"
   },
   {
@@ -3305,9 +3305,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095995496",
-   "price": "2233.95",
+   "price": "2210.68",
    "sku": "LAB-4941",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung QN80F 75″, Carbon Silver, 4K, Mini-LED"
   },
   {
@@ -3315,7 +3315,7 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "5713552035288",
-   "price": "578.01",
+   "price": "698.98",
    "sku": "LAB-4943",
    "stock": "in stock",
    "title": "Käytetyt tuotteet Lenovo ThinkPad L15 G1 tietokone, Windows 11 Pro (LAP-L15G1-MX-A005), Used"
@@ -3325,7 +3325,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0198828348944",
-   "price": "1478.99",
+   "price": "1271.93",
    "sku": "LAB-4944",
    "stock": "in stock",
    "title": "HP OmniBook Ultra 14-fd0031no 14″, Windows 11 (B19JKEA)"
@@ -3335,7 +3335,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0198990345994",
-   "price": "622.15",
+   "price": "708.39",
    "sku": "LAB-4945",
    "stock": "in stock",
    "title": "VICTUS 15-fa2701no (B7UG3EA) 15,6\" pelikannettava"
@@ -3345,9 +3345,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636025713",
-   "price": "1115.49",
+   "price": "1271.66",
    "sku": "LAB-4946",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Asus Vivobook S16 16″, 16 GB RAM, Wi-Fi, Matte, Gray"
   },
   {
@@ -3355,9 +3355,9 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "5713552041302",
-   "price": "492.66",
+   "price": "439.53",
    "sku": "LAB-4947",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Käytetyt tuotteet Lenovo ThinkPad L14 Gen 1 tietokone 14″, Windows 11 Pro (LAP-L14G1-MX-A020), Used"
   },
   {
@@ -3365,7 +3365,7 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "5713552029461",
-   "price": "584.33",
+   "price": "511.98",
    "sku": "LAB-4948",
    "stock": "in stock",
    "title": "Käytetyt tuotteet Lenovo ThinkPad T14s G1 tietokone, Windows 11 Pro (LAP-T14SG1-MX-A010), Used"
@@ -3375,9 +3375,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271817834",
-   "price": "3077.67",
+   "price": "3812.11",
    "sku": "LAB-4949",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Lenovo ThinkPad P14s Gen 6 tietokone 14.5″, Windows 11 Pro (21QT000GMX)"
   },
   {
@@ -3385,9 +3385,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271874318",
-   "price": "3173.39",
+   "price": "4038.85",
    "sku": "LAB-4950",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad P14s Gen 6 tietokone 14.5″, Windows 11 Pro (21QT0016MX)"
   },
   {
@@ -3395,9 +3395,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199271908969",
-   "price": "3226.94",
+   "price": "3055.60",
    "sku": "LAB-4951",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad P16s Gen 4 tietokone 16″, Windows 11 Pro (21QV000VMX)"
   },
   {
@@ -3405,9 +3405,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199272079873",
-   "price": "5554.43",
+   "price": "4494.04",
    "sku": "LAB-4952",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Lenovo ThinkPad P1 Gen 8 tietokone 16″, Windows 11 Pro (21Q8000FMX)"
   },
   {
@@ -3415,9 +3415,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199272086468",
-   "price": "4048.98",
+   "price": "4002.44",
    "sku": "LAB-4953",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Lenovo ThinkPad P1 Gen 8 tietokone 16″, Windows 11 Pro (21Q80000MX)"
   },
   {
@@ -3425,7 +3425,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199272080060",
-   "price": "3841.78",
+   "price": "3886.46",
    "sku": "LAB-4954",
    "stock": "in stock",
    "title": "Lenovo ThinkPad P1 Gen 8 tietokone 16″, Windows 11 Pro (21Q80002MX)"
@@ -3435,7 +3435,7 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "5713518290331",
-   "price": "435.61",
+   "price": "567.30",
    "sku": "LAB-4955",
    "stock": "preorder",
    "title": "Käytetty Lenovo ThinkPad T14 Gen 1 14\" kannettava tietokone, Windows 11 Pro (RF-000160406)"
@@ -3445,7 +3445,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636200028",
-   "price": "817.19",
+   "price": "920.41",
    "sku": "LAB-4956",
    "stock": "in stock",
    "title": "Asus ExpertBook P3 tietokone, Windows 11 Pro (PM3406CKA-LY0354XW)"
@@ -3455,9 +3455,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636015622",
-   "price": "1423.79",
+   "price": "1448.99",
    "sku": "LAB-4957",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Asus TUF Gaming F16 16″, 512 GB, Wi-Fi, Black"
   },
   {
@@ -3465,9 +3465,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199642886384",
-   "price": "509.91",
+   "price": "675.93",
    "sku": "LAB-4958",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "HP 14-em0058no tietokone 14″, hopea (CF9W4EA)"
   },
   {
@@ -3475,9 +3475,9 @@
    "brand": "Dell",
    "currency": "EUR",
    "gtin": "5397184977248",
-   "price": "699.36",
+   "price": "658.62",
    "sku": "LAB-4959",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Dell Pro 14 Essential tietokone 14″, Windows 11 Pro (RP05R)"
   },
   {
@@ -3485,7 +3485,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096700280",
-   "price": "1921.60",
+   "price": "2375.01",
    "sku": "LAB-4960",
    "stock": "in stock",
    "title": "LG QNED86B 75″ (2026)"
@@ -3495,9 +3495,9 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096717486",
-   "price": "459.60",
+   "price": "432.30",
    "sku": "LAB-4961",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "LG QNED8EB 43″ (2026)"
   },
   {
@@ -3505,9 +3505,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251435638",
-   "price": "2302.29",
+   "price": "1862.76",
    "sku": "LAB-4962",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "HP OMEN 14-fb1004no pelikannettava 14″, Windows 11 Home (BQ2S7EA), Black"
   },
   {
@@ -3515,9 +3515,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "2050000037351",
-   "price": "415.67",
+   "price": "364.77",
    "sku": "LAB-4963",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung DU7105 65″, Black"
   },
   {
@@ -3525,9 +3525,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806092043152",
-   "price": "868.64",
+   "price": "953.80",
    "sku": "LAB-4964",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Samsung GQ LS 03 65″, Glossy, stand"
   },
   {
@@ -3535,7 +3535,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094779455",
-   "price": "911.89",
+   "price": "775.11",
    "sku": "LAB-4965",
    "stock": "in stock",
    "title": "Samsung GQ 75 Q 60 CAUXZG 75″, Glossy"
@@ -3545,9 +3545,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806094807172",
-   "price": "577.54",
+   "price": "558.07",
    "sku": "LAB-4966",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Samsung GQ Q 70 65″, Glossy"
   },
   {
@@ -3555,7 +3555,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095501321",
-   "price": "1517.66",
+   "price": "1454.43",
    "sku": "LAB-4967",
    "stock": "in stock",
    "title": "SAMSUNG GQ 65 QN 900 DTXZG QLED TV (Flat, 65 Zoll / 163 cm, UHD 8K, SMART TV)"
@@ -3565,9 +3565,9 @@
    "brand": "Xiaomi",
    "currency": "EUR",
    "gtin": "6932554419813",
-   "price": "53.57",
+   "price": "46.99",
    "sku": "LAB-4968",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Xiaomi Smart Band 10, Glacier Silver"
   },
   {
@@ -3575,9 +3575,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051849",
-   "price": "740.29",
+   "price": "854.77",
    "sku": "LAB-4969",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips The One PQS9011 43″, 4K UHD, Black, QLED"
   },
   {
@@ -3585,7 +3585,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096356982",
-   "price": "635.79",
+   "price": "758.61",
    "sku": "LAB-4970",
    "stock": "in stock",
    "title": "LG OLED evo AI C5 42″, 4K UHD, OLED must"
@@ -3595,9 +3595,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046562",
-   "price": "886.20",
+   "price": "1061.59",
    "sku": "LAB-4972",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Philips OLED820 42″, 4K UHD, Dark Gray, OLED"
   },
   {
@@ -3605,7 +3605,7 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351418636",
-   "price": "255.10",
+   "price": "326.29",
    "sku": "LAB-4974",
    "stock": "in stock",
    "title": "Hisense E7Q 50″, 4K UHD, Black, QLED"
@@ -3615,9 +3615,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351430263",
-   "price": "252.64",
+   "price": "290.39",
    "sku": "LAB-4976",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense A6S 50″, 4K UHD, Black, VA LCD"
   },
   {
@@ -3625,7 +3625,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046296",
-   "price": "307.54",
+   "price": "346.42",
    "sku": "LAB-4978",
    "stock": "in stock",
    "title": "Philips PUS8010 50″, 4K UHD, Black, LED"
@@ -3635,7 +3635,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097118534",
-   "price": "342.64",
+   "price": "292.80",
    "sku": "LAB-4980",
    "stock": "in stock",
    "title": "Samsung Q7F 50″, 4K UHD, Black, QLED"
@@ -3645,7 +3645,7 @@
    "brand": "LG",
    "currency": "EUR",
    "gtin": "8806096353011",
-   "price": "302.67",
+   "price": "319.12",
    "sku": "LAB-4982",
    "stock": "in stock",
    "title": "LG UHD AI UA75 50″, 4K UHD, Black, LED LCD"
@@ -3655,7 +3655,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863045831",
-   "price": "334.50",
+   "price": "301.38",
    "sku": "LAB-4983",
    "stock": "in stock",
    "title": "Philips PUS8560 50″, 4K UHD, Black, QLED"
@@ -3665,9 +3665,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863051719",
-   "price": "376.46",
+   "price": "420.51",
    "sku": "LAB-4985",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Philips PUS8001 50″, 4K UHD, Black, LED"
   },
   {
@@ -3675,9 +3675,9 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736168022",
-   "price": "556.19",
+   "price": "533.94",
    "sku": "LAB-4987",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Sony Bravia 3 S39 50″, 4K UHD, Black, LED LCD"
   },
   {
@@ -3685,9 +3685,9 @@
    "brand": "TCL",
    "currency": "EUR",
    "gtin": "5901292525750",
-   "price": "507.59",
+   "price": "490.67",
    "sku": "LAB-4988",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "TCL C7K 50″, 4K UHD, Black, Mini LED"
   },
   {
@@ -3695,9 +3695,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046104",
-   "price": "655.49",
+   "price": "765.89",
    "sku": "LAB-4990",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Philips The One PUS9060 50″, 4K UHD, Black, QLED"
   },
   {
@@ -3705,9 +3705,9 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046760",
-   "price": "592.19",
+   "price": "560.69",
    "sku": "LAB-4992",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Philips OLED770 48″, 4K UHD, Gray, OLED"
   },
   {
@@ -3715,7 +3715,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097079422",
-   "price": "717.74",
+   "price": "624.43",
    "sku": "LAB-4993",
    "stock": "in stock",
    "title": "Samsung S90F 48″, 4K UHD, Black, OLED"
@@ -3725,7 +3725,7 @@
    "brand": "Sony",
    "currency": "EUR",
    "gtin": "4548736138414",
-   "price": "1040.50",
+   "price": "982.69",
    "sku": "LAB-4994",
    "stock": "in stock",
    "title": "Sony Bravia XR A90K 48″, Black, stand"
@@ -3735,9 +3735,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806097966678",
-   "price": "1556.21",
+   "price": "1480.66",
    "sku": "LAB-4995",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Samsung S95H 48″, 4K UHD, Black, OLED"
   },
   {
@@ -3745,9 +3745,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351415765",
-   "price": "275.71",
+   "price": "324.37",
    "sku": "LAB-4997",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Hisense A6Q 55″, 4K UHD, Black, LED LCD"
   },
   {
@@ -3755,7 +3755,7 @@
    "brand": "Philips",
    "currency": "EUR",
    "gtin": "8718863046661",
-   "price": "488.39",
+   "price": "501.71",
    "sku": "LAB-4999",
    "stock": "in stock",
    "title": "Philips MLED820 55″, 4K UHD, Black, QD Mini LED"
@@ -3765,9 +3765,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351416212",
-   "price": "493.94",
+   "price": "412.33",
    "sku": "LAB-5000",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Hisense E7Q PRO 55″, 4K UHD, Black, QLED"
   },
   {
@@ -3775,9 +3775,9 @@
    "brand": "Hisense",
    "currency": "EUR",
    "gtin": "6942351419862",
-   "price": "403.50",
+   "price": "380.87",
    "sku": "LAB-5002",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Hisense E8Q 55″, 4K UHD, Black, ULED, Mini LED"
   },
   {
@@ -3785,9 +3785,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636142328",
-   "price": "965.05",
+   "price": "1113.51",
    "sku": "LAB-5003",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "ASUS VivoBook S 14 kannettava (D3407HA-SF084W), Windows 11"
   },
   {
@@ -3795,7 +3795,7 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636139557",
-   "price": "493.99",
+   "price": "545.99",
    "sku": "LAB-5004",
    "stock": "in stock",
    "title": "Asus Vivobook Go 14 14″, 512 GB, Wi-Fi, Cool Silver"
@@ -3805,9 +3805,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251428777",
-   "price": "2737.73",
+   "price": "3041.92",
    "sku": "LAB-5005",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "HP EliteBook 8 Flip G1i 13.3″, 512 GB, Glacier silver"
   },
   {
@@ -3815,7 +3815,7 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251711770",
-   "price": "2950.28",
+   "price": "2767.52",
    "sku": "LAB-5006",
    "stock": "in stock",
    "title": "HP ZBook 8 G1i 16 16″, 512 GB, Wi-Fi, Meteor silver"
@@ -3825,9 +3825,9 @@
    "brand": "Asus",
    "currency": "EUR",
    "gtin": "4711636132176",
-   "price": "1114.74",
+   "price": "1335.24",
    "sku": "LAB-5007",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "ASUS Vivobook S16 kannettava (D3607HA-SH100W), Windows 11"
   },
   {
@@ -3835,7 +3835,7 @@
    "brand": "Käytetyt tuotteet",
    "currency": "EUR",
    "gtin": "6419683018914",
-   "price": "896.48",
+   "price": "847.58",
    "sku": "LAB-5008",
    "stock": "out of stock",
    "title": "Käytetyt tuotteet Apple MacBook Air Retina M1 2020 tietokone 13″, Gray, kuntoluokka, A (1063732), Used"
@@ -3845,7 +3845,7 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0198156298430",
-   "price": "730.99",
+   "price": "866.99",
    "sku": "LAB-5009",
    "stock": "in stock",
    "title": "Lenovo ThinkBook 16 Gen 8 tietokone 16″, Windows 11 Pro (21SK0075MX)"
@@ -3855,9 +3855,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199274058128",
-   "price": "2119.00",
+   "price": "2055.43",
    "sku": "LAB-5010",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad X1 Carbon Gen 13 Aura Edition 13.3″, Windows 11 Pro (21NS0103MX)"
   },
   {
@@ -3865,9 +3865,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199273775200",
-   "price": "2040.10",
+   "price": "2289.45",
    "sku": "LAB-5011",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "Lenovo ThinkPad T14 Gen 6 kannettava (21QG004UMX)"
   },
   {
@@ -3875,9 +3875,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199273897223",
-   "price": "1753.71",
+   "price": "1771.79",
    "sku": "LAB-5013",
-   "stock": "out of stock",
+   "stock": "preorder",
    "title": "Lenovo ThinkPad T14 Gen 6 tietokone, Windows 11 Pro (21QG006BMX)"
   },
   {
@@ -3885,7 +3885,7 @@
    "brand": "LG Electronics",
    "currency": "EUR",
    "gtin": "8806096694138",
-   "price": "1295.19",
+   "price": "1338.36",
    "sku": "LAB-5014",
    "stock": "in stock",
    "title": "LG QNED86B 55″ (2026)"
@@ -3895,9 +3895,9 @@
    "brand": "Lenovo",
    "currency": "EUR",
    "gtin": "0199272753193",
-   "price": "3509.99",
+   "price": "2794.99",
    "sku": "LAB-5016",
-   "stock": "in stock",
+   "stock": "out of stock",
    "title": "Lenovo Legion Pro 7 16AFR10H pelikannettava 16″, Windows 11 Home (83RU001JMX)"
   },
   {
@@ -3905,9 +3905,9 @@
    "brand": "HP",
    "currency": "EUR",
    "gtin": "0199251435560",
-   "price": "3027.35",
+   "price": "2552.47",
    "sku": "LAB-5017",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "HP OMEN 14-fb1000no pelikannettava 14″, Windows 11 Home (BQ2R9EA), Black"
   },
   {
@@ -3915,9 +3915,9 @@
    "brand": "Apple",
    "currency": "EUR",
    "gtin": "0195949723919",
-   "price": "1138.03",
+   "price": "1077.07",
    "sku": "LAB-5018",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Apple iPhone 16 Plus, sinivihreä (MXY53), 256 GB"
   },
   {
@@ -3925,9 +3925,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090300646",
-   "price": "410.64",
+   "price": "439.63",
    "sku": "LAB-5019",
-   "stock": "out of stock",
+   "stock": "in stock",
    "title": "SAMSUNG GQ 55 Q 80 TGTXZG QLED TV (Flat, 55 Zoll / 138 cm, UHD 4K, SMART TV)"
   },
   {
@@ -3935,7 +3935,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090347504",
-   "price": "775.11",
+   "price": "754.71",
    "sku": "LAB-5020",
    "stock": "in stock",
    "title": "Samsung GQ 65 Q 80 TGTXZG 65″, Glossy, Carbonsilber, stand"
@@ -3945,9 +3945,9 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806090347528",
-   "price": "1334.24",
+   "price": "1159.66",
    "sku": "LAB-5021",
-   "stock": "preorder",
+   "stock": "in stock",
    "title": "SAMSUNG GQ 75 Q 80 TGTXZG QLED TV (Flat, 75 Zoll / 189 cm, UHD 4K, SMART TV)"
   },
   {
@@ -3955,7 +3955,7 @@
    "brand": "Samsung",
    "currency": "EUR",
    "gtin": "8806095436463",
-   "price": "917.92",
+   "price": "970.07",
    "sku": "LAB-5022",
    "stock": "out of stock",
    "title": "SAMSUNG GQ 75 Q 70 DATXZG QLED TV (Flat, 75 Zoll / 189 cm, UHD 4K, SMART TV)"
@@ -3965,9 +3965,9 @@
    "brand": "Google",
    "currency": "EUR",
    "gtin": "0840353926905",
-   "price": "517.97",
+   "price": "634.37",
    "sku": "LAB-5023",
-   "stock": "in stock",
+   "stock": "preorder",
    "title": "Google Pixel 10, 128 GB, Obsidian, Dual SIM"
   },
   {
@@ -3975,7 +3975,7 @@
    "brand": "OPPO",
    "currency": "EUR",
    "gtin": "6942675412600",
-   "price": "965.51",
+   "price": "865.32",
    "sku": "LAB-5024",
    "stock": "in stock",
    "title": "OPPO Reno16 5G, 512 GB, Black"
@@ -3985,7 +3985,7 @@
    "brand": "Xiaomi",
    "currency": "EUR",
    "gtin": "6932554471521",
-   "price": "315.55",
+   "price": "305.89",
    "sku": "LAB-5025",
    "stock": "in stock",
    "title": "Xiaomi Redmi Note 15 Pro 5G, 256 GB, Black, Dual SIM"
@@ -3995,9 +3995,9 @@
    "brand": "Google",
    "currency": "EUR",
    "gtin": "0840353943360",
-   "price": "94.07",
+   "price": "97.91",
    "sku": "LAB-5026",
-   "stock": "preorder",
+   "stock": "out of stock",
    "title": "Google Fitbit Air, Lavender, Fitness Tracker"
   }
  ]
